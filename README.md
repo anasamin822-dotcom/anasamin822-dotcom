@@ -10,7 +10,7 @@ I build clean, responsive web experiences and I'm currently looking for **remote
 
 - 🎓 B.Tech Computer Science student at Tula's Institute, Dehradun (2025–2029)
 - 💻 Frontend developer with hands-on experience in modern JavaScript, React and Next.js
-- 🌐 Portfolio: [anasamin822-dotcom.github.io/HorizonTechX_Portfolio](https://anasamin822-dotcom.github.io/HorizonTechX_Portfolio/)
+- 🌐 Portfolio: [anasamin822-dotcom.github.io/Portfolio](https://anasamin822-dotcom.github.io/Portfolio/)
 - 🤖 Also experimenting with Python + computer vision (AI fitness coaching apps)
 - 📫 Reach me: **anasamin822@gmail.com**
 
@@ -19,7 +19,7 @@ I build clean, responsive web experiences and I'm currently looking for **remote
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-amin-441b1136a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://anasamin822-dotcom.github.io/HorizonTechX_Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://anasamin822-dotcom.github.io/Portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasamin822@gmail.com)
 
 ---
@@ -43,10 +43,10 @@ I build clean, responsive web experiences and I'm currently looking for **remote
 
 ## 🚀 Featured Projects
 
-- 📊 [**SecureRegent Dashboard**](https://github.com/anasamin822-dotcom/SecureRegent_Dashboard) — Bento-grid business analytics dashboard (JS) · [Live](https://anasamin822-dotcom.github.io/SecureRegent_Dashboard/)
+- 📊 [**RevenueLens**](https://github.com/anasamin822-dotcom/RevenueLens) — Bento-grid revenue analytics dashboard (JS) · [Live](https://anasamin822-dotcom.github.io/RevenueLens/)
 - 🏋️ [**AI Gym Coach**](https://github.com/anasamin822-dotcom/ai-gym-coach) — Real-time computer-vision + voice-guided fitness coach (Python, Streamlit, MediaPipe)
 - 🏠 [**Estate Vision 3D**](https://github.com/anasamin822-dotcom/estate-vision-3d) — Interactive luxury real-estate landing page with 3D spatial walkthroughs
-- 🖼️ [**HorizonTechX Portfolio**](https://github.com/anasamin822-dotcom/HorizonTechX_Portfolio) — My developer portfolio · [Live](https://anasamin822-dotcom.github.io/HorizonTechX_Portfolio/)
+- 🖼️ [**Portfolio**](https://github.com/anasamin822-dotcom/Portfolio) — My developer portfolio · [Live](https://anasamin822-dotcom.github.io/Portfolio/)
 
 ---
 
